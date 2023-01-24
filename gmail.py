@@ -5,7 +5,7 @@ img = Image.open('enaira.png')
 
 my_dict={'recievers':[{'Username':'Mubaraq','mail':'peace.elmubaraq@gmail.com'},{'Username':'Mubbs','mail':'musa.almubaraq@gmail.com'}]}
 email_sender='peace.elmubaraq@gmail.com'
-email_password='ldvzbdchlhhyjwlk'
+email_password=''
 email_receiver = 'musa.almubaraq@gmail.com'
 subject='Testing'
 body="""Hello Almubaraq,

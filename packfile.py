@@ -4,7 +4,7 @@ import smtplib, ssl
 from email.message import EmailMessage
 smtp_server='email-smtp.us-east-2.amazonaws.com'
 smtp_port=465
-smtp_username='AKIAWZMDTF2HKNAS3GO3'
+smtp_username=''
 emailPassword = {}
 #def validEmail(x):
     #pass
